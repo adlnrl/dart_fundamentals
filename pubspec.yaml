@@ -1,0 +1,6 @@
+name: dart_fundamentals
+description: Dart fundamentals practice — 7 core concepts with examples and challenges.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
